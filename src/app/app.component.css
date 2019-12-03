@@ -1,0 +1,31 @@
+#tagger {
+    width:600px;
+    margin: 0px 10px;
+}
+
+button{
+    font-size:16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    width: 80px;
+}
+
+#srchBar{
+    margin: 20px 10px;
+}
+
+#srchlabel{
+    font-size:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+#tagger > div{
+    width:100%;
+    padding: 4px 4px 5px 4px;
+}
+
+#tagger > div > span{
+    background-color:rgb(161, 215, 240);
+    padding:3px 3px 5px 3px;
+    border-radius: 3px;
+}
+
